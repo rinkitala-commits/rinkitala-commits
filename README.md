@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jhumarani
 
-🎓 B.Tech Student | 🐍 Python Developer | 📊 Data Science & AI Enthusiast
+🎓 B.Tech Data Science Student | 🐍 Python Developer | 📊 Data Science |📊 Data Analysis & AI Enthusiast
 
 I enjoy building practical projects using Python, data analysis, machine learning, computer vision, and AI.
 
