@@ -8,6 +8,38 @@ I enjoy building practical projects using Python, data analysis, machine learnin
 
 ## 🚀 Featured Projects
 
+### 🤖 Customer Churn Prediction
+
+An end-to-end Machine Learning application that predicts whether a customer is likely to churn based on customer demographics, services, contract details, and billing information.
+
+**Tech Stack:**
+
+Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Joblib • Streamlit
+
+🔗 **[Live Demo](https://customer-churn-prediction-xxzbq3mo5xmriiaatfwadp.streamlit.app/)**
+
+🔗 **[GitHub Repository](https://github.com/rinkitala-commits/customer-churn-prediction)**
+
+#### ✨ What I Built
+
+- 🧹 Data cleaning and preprocessing
+- 🔧 Feature engineering
+- 🔢 Categorical feature encoding
+- 📏 Feature scaling
+- 📊 Exploratory data analysis
+- 🤖 Logistic Regression classification
+- 🌲 Random Forest classification
+- ⚖️ Model comparison
+- 📈 Accuracy, Precision, Recall, F1-score and ROC-AUC evaluation
+- 🔲 Confusion matrix visualization
+- 🎯 Churn probability prediction
+- 🟢🟡🔴 Customer risk assessment
+- 🖥️ Interactive Streamlit application
+- ☁️ Streamlit Cloud deployment
+- 🐙 Git/GitHub version control
+
+---
+
 ### 🎬 AI Video Highlight Generator
 
 An AI-powered application that automatically analyzes videos using visual motion and audio energy to identify exciting moments and generate a highlight reel.
@@ -120,9 +152,14 @@ Python • Streamlit • Pandas • Matplotlib • SQLite • Git • GitHub
 ### 🤖 Machine Learning & AI
 
 - Machine Learning
+- Classification
+- Logistic Regression
+- Random Forest
+- Model Evaluation
 - Artificial Intelligence
 - Computer Vision
 - Feature Analysis
+- Predictive Analytics
 - Data-driven Applications
 
 ### 🌐 APIs & Web Applications
@@ -134,12 +171,15 @@ Python • Streamlit • Pandas • Matplotlib • SQLite • Git • GitHub
 
 ### 🧰 Tools & Technologies
 
+- Scikit-learn
 - OpenCV
 - Matplotlib
+- Seaborn
 - MoviePy
 - Librosa
 - SQLite
 - CSV
+- Joblib
 - Git
 - GitHub
 - Streamlit Cloud
@@ -156,6 +196,7 @@ Python • Streamlit • Pandas • Matplotlib • SQLite • Git • GitHub
 - 🗃️ SQL
 - 📈 Data Visualization
 - 🔬 Statistics for Data Science
+- ⚙️ Machine Learning Model Optimization
 
 ---
 
@@ -168,6 +209,7 @@ Python • Streamlit • Pandas • Matplotlib • SQLite • Git • GitHub
 - Data Analytics
 - Python Development
 - REST API Applications
+- Predictive Analytics
 - Building practical AI applications
 - Building Machine Learning applications
 - Turning real-world data into useful insights
@@ -182,38 +224,25 @@ I enjoy learning by building real-world projects and continuously improving them
 
 | Project | Technologies | Status |
 |---|---|---|
-| 🎬 AI Video Highlight Generator | Python, OpenCV, Librosa, MoviePy, Streamlit | ✅ Completed |
-| 💰 Personal Finance Dashboard | Python, Pandas, Streamlit, Matplotlib, SQLite | ✅ Completed |
-| 💼 Job Market Scraper & Data Science Dashboard | Python, Pandas, REST API, Matplotlib, Streamlit | ✅ Completed |
+| 🤖 Customer Churn Prediction | Python, Scikit-learn, Pandas, Streamlit | ✅ Completed & Deployed |
+| 🎬 AI Video Highlight Generator | Python, OpenCV, Librosa, MoviePy, Streamlit | ✅ Completed & Deployed |
+| 💰 Personal Finance Dashboard | Python, Pandas, Streamlit, Matplotlib, SQLite | ✅ Completed & Deployed |
+| 💼 Job Market Scraper & Data Science Dashboard | Python, Pandas, REST API, Matplotlib, Streamlit | ✅ Completed & Deployed |
 
 ---
 
 ## 🚀 What I'm Building Next
 
-### 🤖 Customer Churn Prediction & Analytics
+I'm continuing to build practical projects in:
 
-A Machine Learning project focused on predicting whether a customer is likely to churn.
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 📊 Data Science
+- 📈 Data Analytics
+- 👁️ Computer Vision
+- 🌐 Interactive ML Applications
 
-**Planned technologies:**
-
-Python • Pandas • NumPy • Scikit-learn • Matplotlib • Streamlit
-
-**Planned concepts:**
-
-- Data preprocessing
-- Exploratory Data Analysis
-- Feature engineering
-- Classification
-- Logistic Regression
-- Decision Trees
-- Random Forest
-- Model comparison
-- Confusion matrix
-- Precision & Recall
-- F1-score
-- ROC-AUC
-- Hyperparameter tuning
-- Machine Learning deployment
+My goal is to turn real-world problems into useful, data-driven applications.
 
 ---
 
