@@ -8,9 +8,11 @@ I enjoy building practical projects using Python, data analysis, machine learnin
 
 ## 🚀 Featured Projects
 
+---
+
 ### 🤖 Customer Churn Prediction
 
-An end-to-end Machine Learning application that predicts whether a customer is likely to churn based on customer demographics, services, contract details, and billing information.
+A machine learning web application that predicts whether a customer is likely to churn based on customer demographics, services, contract details, and billing information.
 
 **Tech Stack:**
 
@@ -23,20 +25,38 @@ Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Jobl
 #### ✨ What I Built
 
 - 🧹 Data cleaning and preprocessing
+- 📊 Exploratory Data Analysis (EDA)
 - 🔧 Feature engineering
-- 🔢 Categorical feature encoding
-- 📏 Feature scaling
-- 📊 Exploratory data analysis
+- 🔢 Numerical feature scaling
+- 🏷️ Categorical feature encoding
 - 🤖 Logistic Regression classification
 - 🌲 Random Forest classification
 - ⚖️ Model comparison
-- 📈 Accuracy, Precision, Recall, F1-score and ROC-AUC evaluation
-- 🔲 Confusion matrix visualization
+- 📈 ROC-AUC analysis
+- 🎯 Precision-Recall analysis
+- 🧩 Confusion matrix evaluation
+- ⚙️ Hyperparameter tuning using GridSearchCV
+- 📊 Accuracy, Precision, Recall and F1-score evaluation
 - 🎯 Churn probability prediction
-- 🟢🟡🔴 Customer risk assessment
+- 🟢🟡🔴 Customer churn risk assessment
+- 👤 Customer summary dashboard
 - 🖥️ Interactive Streamlit application
-- ☁️ Streamlit Cloud deployment
+- ☁️ Streamlit Community Cloud deployment
 - 🐙 Git/GitHub version control
+
+#### 📊 Model Performance
+
+| Metric | Logistic Regression |
+|---|---:|
+| Accuracy | **80.38%** |
+| Precision | **64.85%** |
+| Recall | **57.22%** |
+| F1 Score | **60.80%** |
+| ROC-AUC | **83.59%** |
+
+#### 🎯 Project Result
+
+Built an end-to-end machine learning application that transforms customer data into churn predictions and probability-based risk assessments through an interactive web interface.
 
 ---
 
