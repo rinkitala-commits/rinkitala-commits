@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Jhumarani
 
-🎓 B.Tech Data Science Student | 🐍 Python Developer | 📊 Data Science & Data Analysis | 🤖 AI Enthusiast
+🎓 B.Tech Data Science Student | 🐍 Python Developer | 📊 Data Science & Data Analysis | 🤖 AI Enthusiast | 🌐 Django Developer
 
-I enjoy building practical projects using Python, data analysis, machine learning, computer vision, AI, and interactive web applications.
+I enjoy building practical projects using Python, data analysis, machine learning, computer vision, AI, Django, and interactive web applications.
 
 ---
 
@@ -148,6 +148,49 @@ Python • Streamlit • Pandas • Matplotlib • SQLite • Git • GitHub
 
 ---
 
+### 🛒 Django E-Commerce Store
+
+A full-stack e-commerce web application built with Python and Django that provides a complete online shopping experience with product browsing, search, cart management, wishlist functionality, checkout, order tracking, stock management, and Django Admin management.
+
+**Tech Stack:**
+
+Python • Django • SQLite • HTML • CSS • Bootstrap • Django Templates
+
+🔗 **[GitHub Repository](https://github.com/rinkitala-commits/django-ecommerce-store)**
+
+#### ✨ What I Built
+
+- 👤 User registration, login and logout
+- 🛍️ Product listing and product detail pages
+- 🔎 Product search functionality
+- 🏷️ Category-based product filtering
+- 💰 Price and name-based sorting
+- 📦 Product stock availability tracking
+- 🛒 Shopping cart functionality
+- ➕ Increase and decrease cart quantities
+- 🗑️ Remove products from cart
+- ⚖️ Stock validation during cart operations
+- ❤️ Wishlist functionality
+- 💳 Checkout and order creation
+- 📋 Order history
+- 🚚 Order status tracking
+- 📉 Automatic stock reduction after purchase
+- 👨‍💼 Django Admin customization
+- 📊 Product and order management through Admin
+- 🔍 Admin product search and category filtering
+- 🗄️ SQLite database integration
+- 🧩 Django MVT architecture
+- 🔗 Django ORM and database modeling
+- 🔐 Authentication and session management
+- ⚙️ CRUD operations
+- 🐙 Git/GitHub version control
+
+#### 🎯 Project Result
+
+Built a complete Django-based e-commerce platform demonstrating backend development, database integration, authentication, product and inventory management, shopping-cart workflows, order processing, and admin-side management.
+
+---
+
 ## 🛠️ Skills
 
 ### 💻 Programming
@@ -180,12 +223,28 @@ Python • Streamlit • Pandas • Matplotlib • SQLite • Git • GitHub
 - Predictive Analytics
 - Data-driven Applications
 
-### 🌐 APIs & Web Applications
+### 🌐 Web Development & APIs
 
+- Django
+- Django MVT Architecture
+- Django ORM
+- Django Templates
+- Django Admin
+- HTML
+- CSS
+- Bootstrap
 - REST APIs
 - API Data Collection
 - Streamlit
-- Interactive Data Applications
+- Interactive Web Applications
+
+### 🗄️ Databases
+
+- SQLite
+- SQL
+- Django ORM
+- Database Modeling
+- CRUD Operations
 
 ### 🧰 Tools & Technologies
 
@@ -211,6 +270,7 @@ Python • Streamlit • Pandas • Matplotlib • SQLite • Git • GitHub
 - 🧠 Artificial Intelligence
 - 👁️ Computer Vision
 - 🐍 Advanced Python
+- 🌐 Django & Web Development
 - 🗃️ SQL
 - 📈 Data Visualization
 - 🔬 Statistics for Data Science
@@ -226,6 +286,8 @@ Python • Streamlit • Pandas • Matplotlib • SQLite • Git • GitHub
 - Computer Vision
 - Data Analytics
 - Python Development
+- Django Development
+- Full-Stack Web Applications
 - REST API Applications
 - Predictive Analytics
 - Building practical AI applications
@@ -246,6 +308,7 @@ I enjoy learning by building real-world projects and continuously improving them
 | 🎬 AI Video Highlight Generator | Python, OpenCV, Librosa, MoviePy, Streamlit | ✅ Completed & Deployed |
 | 💰 Personal Finance Dashboard | Python, Pandas, Streamlit, Matplotlib, SQLite | ✅ Completed & Deployed |
 | 💼 Job Market Scraper & Data Science Dashboard | Python, Pandas, REST API, Matplotlib, Streamlit | ✅ Completed & Deployed |
+| 🛒 Django E-Commerce Store | Python, Django, SQLite, HTML, CSS, Bootstrap | ✅ Completed |
 
 ---
 
@@ -258,7 +321,9 @@ I'm continuing to build practical projects in:
 - 📊 Data Science
 - 📈 Data Analytics
 - 👁️ Computer Vision
-- 🌐 Interactive ML Applications
+- 🌐 Django & Web Development
+- 🔗 API-based Applications
+- 🖥️ Interactive ML Applications
 
 My goal is to turn real-world problems into useful, data-driven applications.
 
