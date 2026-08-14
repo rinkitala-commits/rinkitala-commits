@@ -8,8 +8,6 @@ I enjoy building practical projects using Python, data analysis, machine learnin
 
 ## 🚀 Featured Projects
 
----
-
 ### 🤖 Customer Churn Prediction
 
 A machine learning web application that predicts whether a customer is likely to churn based on customer demographics, services, contract details, and billing information.
