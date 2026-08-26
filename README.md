@@ -40,6 +40,58 @@ Built a complete local AI chatbot application demonstrating **LLM integration, c
 
 ---
 
+### 🤖 AI Resume Analyzer & Job Matcher
+
+An AI-powered resume analysis and job-matching application that analyzes resumes against job descriptions, identifies matching and missing skills, evaluates resume quality, and recommends suitable job roles.
+
+**Tech Stack:**
+
+Python • Pandas • NumPy • Scikit-learn • NLP • TF-IDF • PyPDF2 • python-docx • Streamlit
+
+🔗 **[Live Demo](https://ai-resume-job-matcher-alq2cazapx2fhzhonsqmrg.streamlit.app/)**
+
+🔗 **[GitHub Repository](https://github.com/rinkitala-commits/ai-resume-job-matcher)**
+
+#### ✨ What I Built
+
+* 📄 PDF and DOCX resume parsing
+* 🧠 Automated resume skill extraction
+* 💼 Job description skill extraction
+* 🎯 Resume-to-job matching
+* 📊 TF-IDF based text similarity
+* 🧩 Skill-based matching
+* 📈 Combined job match scoring
+* 📋 Resume quality analysis
+* ✅ Matching skill identification
+* ⚠️ Missing skill detection
+* 🔥 Job-specific skill analysis
+* 💡 Personalized resume improvement recommendations
+* 💼 Suitable job-role recommendations
+* 📊 Skill comparison visualization
+* 📈 Match score and skill-match progress indicators
+* 🖥️ Interactive Streamlit dashboard
+* ☁️ Streamlit Community Cloud deployment
+* 🐙 Git/GitHub version control
+
+#### 📊 Analysis Features
+
+The application provides:
+
+| Analysis | Result |
+| -------- | ------ |
+| 🎯 Overall Match | Resume-to-job compatibility score |
+| 🧠 Skill Match | Percentage of required skills matched |
+| 📄 Resume Quality | Resume completeness analysis |
+| ✅ Matching Skills | Skills found in both resume and job |
+| ⚠️ Missing Skills | Job skills not detected in resume |
+| 💼 Recommended Roles | Suitable roles based on resume skills |
+
+#### 🎯 Project Result
+
+Built an end-to-end AI-powered resume analysis platform demonstrating **NLP, TF-IDF text similarity, skill extraction, machine learning concepts, data processing, recommendation logic, and interactive Streamlit application development**.
+
+---
+
 ### 🤖 Customer Churn Prediction
 
 A machine learning web application that predicts whether a customer is likely to churn based on customer demographics, services, contract details, and billing information.
@@ -268,6 +320,18 @@ Built a complete Django-based e-commerce platform demonstrating backend developm
 * Prompt Engineering
 * AI Application Development
 
+### 🧠 NLP & Resume Intelligence
+
+* Natural Language Processing (NLP)
+* TF-IDF
+* Cosine Similarity
+* Text Similarity
+* Skill Extraction
+* Resume Parsing
+* Keyword Matching
+* Skill Gap Analysis
+* Recommendation Systems
+
 ### 🌐 Web Development & APIs
 
 * Django
@@ -355,6 +419,7 @@ I enjoy learning by building real-world projects and continuously improving them
 | ---------------------------------------------- | ----------------------------------------------- | ---------------------- |
 | 🤖 Jhuma AI — Local AI Chatbot                 | Python, Streamlit, Ollama, Qwen 2.5 3B          | ✅ Completed            |
 | 🤖 Customer Churn Prediction                   | Python, Scikit-learn, Pandas, Streamlit         | ✅ Completed & Deployed |
+| 🤖 AI Resume Analyzer & Job Matcher             | Python, NLP, Scikit-learn, TF-IDF, Streamlit    | ✅ Completed & Deployed |
 | 🎬 AI Video Highlight Generator                | Python, OpenCV, Librosa, MoviePy, Streamlit     | ✅ Completed & Deployed |
 | 💰 Personal Finance Dashboard                  | Python, Pandas, Streamlit, Matplotlib, SQLite   | ✅ Completed & Deployed |
 | 💼 Job Market Scraper & Data Science Dashboard | Python, Pandas, REST API, Matplotlib, Streamlit | ✅ Completed & Deployed |
