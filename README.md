@@ -6,6 +6,8 @@ I build **practical, data-driven applications** that turn real-world problems in
 
 I'm passionate about **learning by building**, experimenting with new technologies, and developing end-to-end projects that combine **data, AI, and software development**.
 
+🌐 Portfolio: https://rinkitala-commits.github.io/jhumarani-portfolio/
+
 ---
 
 ## 🚀 Featured Projects
