@@ -142,6 +142,62 @@ Built an end-to-end machine learning application that transforms customer data i
 
 ---
 
+### 🏦 Banking Transaction & Fraud Analytics
+
+An end-to-end banking analytics project that analyzes transaction data, identifies fraud patterns, performs SQL-based business analysis, trains machine learning models for fraud detection, and presents insights through an interactive Streamlit dashboard.
+
+**Tech Stack:**
+
+Python • Pandas • NumPy • Scikit-learn • SQL • SQLite • Matplotlib • Seaborn • Streamlit • Joblib • Git • GitHub
+
+🔗 **[Live Demo](https://banking-fraud-analytics-l6eszn7dncbksgjkvrmggd.streamlit.app/)**
+
+🔗 **[GitHub Repository](https://github.com/rinkitala-commits/Banking-Fraud-Analytics)**
+
+#### ✨ What I Built
+
+* 🏦 Banking transaction data analysis
+* 🧹 Data cleaning and preprocessing
+* 🔍 Exploratory Data Analysis (EDA)
+* 🗄️ SQLite database integration
+* 🧮 SQL-based transaction analysis
+* 📊 Advanced SQL queries and business insights
+* 🔎 Fraud pattern analysis
+* 💰 Transaction amount analysis
+* 📅 Time-based transaction analysis
+* 🌍 Location-based fraud analysis
+* 📱 Transaction channel analysis
+* ⚙️ Feature engineering
+* 🤖 Logistic Regression fraud detection
+* 🌲 Random Forest fraud detection
+* ⚖️ Machine learning model comparison
+* 📈 Accuracy, Precision, Recall, F1-score and ROC-AUC evaluation
+* 🎯 Fraud probability prediction
+* 📊 Interactive fraud analytics dashboard
+* 🚨 High-risk transaction identification
+* 📈 Monthly fraud trend analysis
+* 🎛️ Interactive dashboard filtering
+* ☁️ Streamlit Community Cloud deployment
+* 🐙 Git/GitHub version control
+
+#### 📊 Analysis Features
+
+| Analysis | Result |
+| -------- | ------ |
+| 🏦 Transaction Analysis | Transaction volume and amount insights |
+| 🚨 Fraud Analysis | Fraud transaction patterns |
+| 📱 Channel Analysis | Fraud and transaction patterns by channel |
+| 🌍 Location Analysis | Location-based fraud analysis |
+| 📅 Time Analysis | Monthly and time-based transaction trends |
+| 🤖 ML Prediction | Fraud probability prediction |
+| 📊 Dashboard | Interactive banking analytics |
+
+#### 🎯 Project Result
+
+Built an end-to-end banking analytics platform demonstrating **SQL analysis, data cleaning, exploratory data analysis, feature engineering, machine learning, fraud detection, database integration, and interactive Streamlit dashboard development**.
+
+---
+
 ### 🎬 AI Video Highlight Generator
 
 An AI-powered application that automatically analyzes videos using visual motion and audio energy to identify exciting moments and generate a highlight reel.
@@ -417,13 +473,14 @@ I enjoy learning by building real-world projects and continuously improving them
 
 | Project                                        | Technologies                                    | Status                 |
 | ---------------------------------------------- | ----------------------------------------------- | ---------------------- |
-| 🤖 Jhuma AI — Local AI Chatbot                 | Python, Streamlit, Ollama, Qwen 2.5 3B          | ✅ Completed            |
-| 🤖 Customer Churn Prediction                   | Python, Scikit-learn, Pandas, Streamlit         | ✅ Completed & Deployed |
-| 🤖 AI Resume Analyzer & Job Matcher             | Python, NLP, Scikit-learn, TF-IDF, Streamlit    | ✅ Completed & Deployed |
-| 🎬 AI Video Highlight Generator                | Python, OpenCV, Librosa, MoviePy, Streamlit     | ✅ Completed & Deployed |
-| 💰 Personal Finance Dashboard                  | Python, Pandas, Streamlit, Matplotlib, SQLite   | ✅ Completed & Deployed |
+| 🤖 Jhuma AI — Local AI Chatbot                 | Python, Streamlit, Ollama, Qwen 2.5 3B         | ✅ Completed            |
+| 🤖 Customer Churn Prediction                   | Python, Scikit-learn, Pandas, Streamlit        | ✅ Completed & Deployed |
+| 🏦 Banking Transaction & Fraud Analytics       | Python, SQL, SQLite, Scikit-learn, Streamlit   | ✅ Completed & Deployed |
+| 🤖 AI Resume Analyzer & Job Matcher            | Python, NLP, Scikit-learn, TF-IDF, Streamlit   | ✅ Completed & Deployed |
+| 🎬 AI Video Highlight Generator                | Python, OpenCV, Librosa, MoviePy, Streamlit    | ✅ Completed & Deployed |
+| 💰 Personal Finance Dashboard                  | Python, Pandas, Streamlit, Matplotlib, SQLite  | ✅ Completed & Deployed |
 | 💼 Job Market Scraper & Data Science Dashboard | Python, Pandas, REST API, Matplotlib, Streamlit | ✅ Completed & Deployed |
-| 🛒 Django E-Commerce Store                     | Python, Django, SQLite, HTML, CSS, Bootstrap    | ✅ Completed & Deployed |
+| 🛒 Django E-Commerce Store                     | Python, Django, SQLite, HTML, CSS, Bootstrap   | ✅ Completed & Deployed |
 
 ---
 
