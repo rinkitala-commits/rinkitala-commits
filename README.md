@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Jhumarani
 
-🎓 B.Tech Data Science Student | 🐍 Python Developer | 📊 Data Science & Data Analysis | 🤖 AI Enthusiast | 🌐 Django Developer
+🎓 **B.Tech Data Science Student** | 📊 **Data Science & Analytics** | 🤖 **Machine Learning & AI** | 🐍 **Python Developer** | 🌐 **Django Developer**
 
-I enjoy building practical projects using Python, data analysis, machine learning, computer vision, AI, **Generative AI, Local LLMs, Ollama, Qwen**, Django, and interactive web applications.
+I build **practical, data-driven applications** that turn real-world problems into useful solutions. My work spans **data analysis, machine learning, artificial intelligence, Generative AI, NLP, computer vision, and web application development** using technologies such as **Python, SQL, Pandas, Scikit-learn, Streamlit, Django, Ollama, and Qwen**.
+
+I'm passionate about **learning by building**, experimenting with new technologies, and developing end-to-end projects that combine **data, AI, and software development**.
 
 ---
 
@@ -48,7 +50,7 @@ An AI-powered resume analysis and job-matching application that analyzes resumes
 
 Python • Pandas • NumPy • Scikit-learn • NLP • TF-IDF • PyPDF2 • python-docx • Streamlit
 
-🔗 **[Live Demo](https://ai-resume-job-matcher-alq2cazapx2fhzhonsqmrg.streamlit.app/)**
+🔗 **[Live Demo](https://ai-resume-job-matcher-alq2cazapx2fhzhonsqmrg8.streamlit.app/)**
 
 🔗 **[GitHub Repository](https://github.com/rinkitala-commits/ai-resume-job-matcher)**
 
@@ -75,15 +77,13 @@ Python • Pandas • NumPy • Scikit-learn • NLP • TF-IDF • PyPDF2 • p
 
 #### 📊 Analysis Features
 
-The application provides:
-
-| Analysis | Result |
-| -------- | ------ |
-| 🎯 Overall Match | Resume-to-job compatibility score |
-| 🧠 Skill Match | Percentage of required skills matched |
-| 📄 Resume Quality | Resume completeness analysis |
-| ✅ Matching Skills | Skills found in both resume and job |
-| ⚠️ Missing Skills | Job skills not detected in resume |
+| Analysis             | Result                                |
+| -------------------- | ------------------------------------- |
+| 🎯 Overall Match     | Resume-to-job compatibility score     |
+| 🧠 Skill Match       | Percentage of required skills matched |
+| 📄 Resume Quality    | Resume completeness analysis          |
+| ✅ Matching Skills    | Skills found in both resume and job   |
+| ⚠️ Missing Skills    | Job skills not detected in resume     |
 | 💼 Recommended Roles | Suitable roles based on resume skills |
 
 #### 🎯 Project Result
@@ -142,6 +142,72 @@ Built an end-to-end machine learning application that transforms customer data i
 
 ---
 
+### 🏠 House Price Prediction
+
+A machine learning regression web application that predicts house sale prices based on property characteristics such as overall quality, living area, location, year built, garage capacity, basement area, and other housing features.
+
+**Tech Stack:**
+
+Python • Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn • Joblib • Streamlit
+
+🔗 **[Live Demo](https://house-price-prediction-flzjvyu7ntwpfuyu9pqcxz.streamlit.app/)**
+
+🔗 **[GitHub Repository](https://github.com/rinkitala-commits/house-price-prediction)**
+
+#### ✨ What I Built
+
+* 🧹 Data cleaning and preprocessing
+* 📊 Exploratory Data Analysis (EDA)
+* 🔍 Feature correlation analysis
+* 🧩 Numerical and categorical feature handling
+* 🔢 Numerical feature imputation and scaling
+* 🏷️ Categorical feature encoding
+* 🔄 Scikit-learn preprocessing pipelines
+* 🌲 Random Forest Regressor
+* 🚀 Gradient Boosting Regressor
+* ⚖️ Regression model comparison
+* 📈 MAE, RMSE and R² evaluation
+* 📊 MAPE evaluation
+* ⭐ Feature importance analysis
+* 💾 Model serialization using Joblib
+* 🏠 Interactive house price prediction
+* 🎛️ User-controlled property features
+* 🔄 Reset input functionality
+* 📊 Prediction details and model metrics
+* 🖥️ Interactive Streamlit application
+* ☁️ Streamlit Community Cloud deployment
+* 🐙 Git/GitHub version control
+
+#### 📊 Model Performance
+
+| Model             |            MAE |           RMSE |       R² |
+| ----------------- | -------------: | -------------: | -------: |
+| Random Forest     |     $15,703.65 |     $26,770.07 |     0.91 |
+| Gradient Boosting | **$15,187.46** | **$25,726.69** | **0.92** |
+
+The **Gradient Boosting Regressor** was selected for the final application based on the evaluation results on unseen test data.
+
+#### ⭐ Top Features
+
+The trained model identified several influential features, including:
+
+* Overall Quality
+* Above Ground Living Area
+* Garage Cars
+* Total Basement Area
+* First Floor Area
+* Basement Finished Area
+* Second Floor Area
+* Year Built
+* Lot Area
+* Year Remodeled
+
+#### 🎯 Project Result
+
+Built an end-to-end machine learning regression application demonstrating **data preprocessing, exploratory data analysis, feature engineering, categorical encoding, model comparison, regression evaluation, feature importance analysis, model serialization, and interactive Streamlit application development**.
+
+---
+
 ### 🏦 Banking Transaction & Fraud Analytics
 
 An end-to-end banking analytics project that analyzes transaction data, identifies fraud patterns, performs SQL-based business analysis, trains machine learning models for fraud detection, and presents insights through an interactive Streamlit dashboard.
@@ -182,15 +248,15 @@ Python • Pandas • NumPy • Scikit-learn • SQL • SQLite • Matplotlib �
 
 #### 📊 Analysis Features
 
-| Analysis | Result |
-| -------- | ------ |
-| 🏦 Transaction Analysis | Transaction volume and amount insights |
-| 🚨 Fraud Analysis | Fraud transaction patterns |
-| 📱 Channel Analysis | Fraud and transaction patterns by channel |
-| 🌍 Location Analysis | Location-based fraud analysis |
-| 📅 Time Analysis | Monthly and time-based transaction trends |
-| 🤖 ML Prediction | Fraud probability prediction |
-| 📊 Dashboard | Interactive banking analytics |
+| Analysis                | Result                                    |
+| ----------------------- | ----------------------------------------- |
+| 🏦 Transaction Analysis | Transaction volume and amount insights    |
+| 🚨 Fraud Analysis       | Fraud transaction patterns                |
+| 📱 Channel Analysis     | Fraud and transaction patterns by channel |
+| 🌍 Location Analysis    | Location-based fraud analysis             |
+| 📅 Time Analysis        | Monthly and time-based transaction trends |
+| 🤖 ML Prediction        | Fraud probability prediction              |
+| 📊 Dashboard            | Interactive banking analytics             |
 
 #### 🎯 Project Result
 
@@ -296,9 +362,9 @@ A full-stack e-commerce web application built with Python and Django that provid
 
 Python • Django • SQLite • HTML • CSS • Bootstrap • Django Templates
 
-🔗 [**Live Demo**](https://django-ecommerce-store-gjr5.onrender.com/)
+🔗 **[Live Demo](https://django-ecommerce-store-gjr5.onrender.com/)**
 
-🔗 [**GitHub Repository**](https://github.com/rinkitala-commits/django-ecommerce-store)
+🔗 **[GitHub Repository](https://github.com/rinkitala-commits/django-ecommerce-store)**
 
 #### ✨ What I Built
 
@@ -356,8 +422,10 @@ Built a complete Django-based e-commerce platform demonstrating backend developm
 
 * Machine Learning
 * Classification
+* Regression
 * Logistic Regression
 * Random Forest
+* Gradient Boosting
 * Model Evaluation
 * Artificial Intelligence
 * Computer Vision
@@ -432,6 +500,7 @@ Built a complete Django-based e-commerce platform demonstrating backend developm
 ## 📚 Currently Learning
 
 * 📊 Advanced Data Science
+* 📈 Excel & Data Analysis
 * 🤖 Machine Learning
 * 🧠 Artificial Intelligence
 * 💬 Generative AI & LLM Applications
@@ -473,14 +542,15 @@ I enjoy learning by building real-world projects and continuously improving them
 
 | Project                                        | Technologies                                    | Status                 |
 | ---------------------------------------------- | ----------------------------------------------- | ---------------------- |
-| 🤖 Jhuma AI — Local AI Chatbot                 | Python, Streamlit, Ollama, Qwen 2.5 3B         | ✅ Completed            |
-| 🤖 Customer Churn Prediction                   | Python, Scikit-learn, Pandas, Streamlit        | ✅ Completed & Deployed |
-| 🏦 Banking Transaction & Fraud Analytics       | Python, SQL, SQLite, Scikit-learn, Streamlit   | ✅ Completed & Deployed |
-| 🤖 AI Resume Analyzer & Job Matcher            | Python, NLP, Scikit-learn, TF-IDF, Streamlit   | ✅ Completed & Deployed |
-| 🎬 AI Video Highlight Generator                | Python, OpenCV, Librosa, MoviePy, Streamlit    | ✅ Completed & Deployed |
-| 💰 Personal Finance Dashboard                  | Python, Pandas, Streamlit, Matplotlib, SQLite  | ✅ Completed & Deployed |
+| 🤖 Jhuma AI — Local AI Chatbot                 | Python, Streamlit, Ollama, Qwen 2.5 3B          | ✅ Completed            |
+| 🤖 Customer Churn Prediction                   | Python, Scikit-learn, Pandas, Streamlit         | ✅ Completed & Deployed |
+| 🏠 House Price Prediction                      | Python, Scikit-learn, Pandas, Streamlit         | ✅ Completed & Deployed |
+| 🏦 Banking Transaction & Fraud Analytics       | Python, SQL, SQLite, Scikit-learn, Streamlit    | ✅ Completed & Deployed |
+| 🤖 AI Resume Analyzer & Job Matcher            | Python, NLP, Scikit-learn, TF-IDF, Streamlit    | ✅ Completed & Deployed |
+| 🎬 AI Video Highlight Generator                | Python, OpenCV, Librosa, MoviePy, Streamlit     | ✅ Completed & Deployed |
+| 💰 Personal Finance Dashboard                  | Python, Pandas, Streamlit, Matplotlib, SQLite   | ✅ Completed & Deployed |
 | 💼 Job Market Scraper & Data Science Dashboard | Python, Pandas, REST API, Matplotlib, Streamlit | ✅ Completed & Deployed |
-| 🛒 Django E-Commerce Store                     | Python, Django, SQLite, HTML, CSS, Bootstrap   | ✅ Completed & Deployed |
+| 🛒 Django E-Commerce Store                     | Python, Django, SQLite, HTML, CSS, Bootstrap    | ✅ Completed & Deployed |
 
 ---
 
